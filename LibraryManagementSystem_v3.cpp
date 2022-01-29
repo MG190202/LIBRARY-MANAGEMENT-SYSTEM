@@ -1,11 +1,7 @@
 //Developed By:
 //
-//Name: Haroon Rashid
-//Reg No: FA17-BCS-030
-//
-//Name: Abdul Muizz
-//Reg No: FA17-BCS-003
-//Submitted to : Dr. Inayat-ur-Rehman
+//Name: LUV GHILOTHIA
+
 
 //Project Name : Library Management System
 //Data Structures Used: Hashing, Linked List, BST, Queues
